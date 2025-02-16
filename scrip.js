@@ -2,12 +2,12 @@ document.addEventListener("DOMContentLoaded", function () {
     console.log("Script Loaded Successfully");
 
     const quizData = [
-        { question: "What's the date and time we met?", answer: "17-02-2023" }, // Replace with actual
+        { question: "What's the date we met?", answer: "17/02/2023" }, // Replace with actual
         { question: "What's my favorite food?", answer: "biryani" }, // Replace with actual
         
         { question: "What's my favorite color?", answer: "blue" }, // Replace with actual
-        { question: "Where did we first talk?", answer: "bottled" }, // New question
-        { question: "What's my biggest dream?", answer: "to maary me and have kids" }, // New question
+        { question: "Where did we first talk on?", answer: "bottled" }, // New question
+        { question: "What's my biggest dream?", answer: "to marry me and have kids" }, // New question
         { question: "how much i love you? ", answer: "beyound my imagination" } // New question
     ];
 
